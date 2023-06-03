@@ -1,0 +1,105 @@
+{ 
+
+     "name": "Telegraph Uploader Bot", 
+
+     "description": "I am An Advance Telegraph Bot.", 
+
+     "keywords": [ 
+
+         "Telegram", 
+
+         "Id", 
+
+         "Bot" 
+
+     ], 
+
+     "website": "https://YouTube.com/@BikashGadgetsTech", 
+
+     "repository": "https://github.com/BikashHalderNew/Bgttelegraph", 
+
+     "success_url": "https://t.me/Bgt_Chat", 
+
+     "env": { 
+
+         "API_ID": { 
+
+             "description": "Your APP ID form https://my.telegram.org/auth ", 
+
+             "value": "" 
+
+         }, 
+
+         "API_HASH": { 
+
+             "description": "Your API Hash From https://my.telegram.org/auth", 
+
+             "value": "" 
+
+         }, 
+
+         "BOT_TOKEN": { 
+
+             "description": "Your Bot Token From @BotFather", 
+
+             "value": "" 
+
+         }, 
+
+         "UPDATE_CHANNEL": { 
+
+             "description": "Channel User Name Without @ ", 
+
+             "value": "BikashGadgetsTech" 
+
+         }, 
+
+         "BOT_OWNER": { 
+
+             "description": "Owner Id ", 
+
+             "value": "1439222689" 
+
+         }, 
+
+         "DATABASE_URL": { 
+
+             "description": "Database From monogdb website ", 
+
+             "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority" 
+
+         }, 
+
+         "BOT_NAME": { 
+
+             "description": "Your Bot Name From Bot Father", 
+
+             "value": "" 
+
+         } 
+
+     }, 
+
+     "buildpacks": [ 
+
+         { 
+
+             "url": "heroku/python" 
+
+         } 
+
+     ], 
+
+     "formation": { 
+
+         "worker": { 
+
+             "quantity": 1, 
+
+             "size": "eco" 
+
+         } 
+
+     } 
+
+ }

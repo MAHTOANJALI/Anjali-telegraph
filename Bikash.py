@@ -83,7 +83,7 @@ FORCE_SUBSCRIBE_TEXT = "🥀 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧�
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀', url='https://t.me/BikashGadgetstech'),
+        InlineKeyboardButton('🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀', url='{UPDATE_CHANNEL}'),
         InlineKeyboardButton('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', url='https://Youtube.com/@BikashGadgetsTech'),
         ],[
         InlineKeyboardButton('🥀 𝐇𝐨𝐦𝐞 🏘', callback_data='home'),
@@ -105,7 +105,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📢', url='https://t.me/BikashGadgetsTech'),
+        InlineKeyboardButton('📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📢', url='{UPDATE_CHANNEL}'),
         InlineKeyboardButton('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', url='https://Youtube.com/@BikashGadgetsTech'),
         ],[
         InlineKeyboardButton('🥀 𝐇𝐨𝐦𝐞 🏘', callback_data='home'),
