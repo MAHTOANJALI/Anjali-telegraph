@@ -1,7 +1,7 @@
 {
     "name": "MediaToTelegraphLink",
     "description": "Powerful Telegram bot to generate Telegraph links for your media files. This bot can works also in group chats.",
-    "repository": "https://github.com/Bikashhaldernew/Bgttelegraph",
+    "repository": "https://github.com/Bikashhalde109/link",
     "keywords": [
         "telegraph",
         "telegraph link",
@@ -21,23 +21,7 @@
         },
         "BOT_TOKEN": {
             "description": "Get from Telegram's @BotFather"
-        },
-        "UPDATE_CHANNEL": { 
-            "description": "Channel User Name Without @ ", 
-             "value": "BikashGadgetsTech" 
-         }, 
-         "BOT_OWNER": { 
-             "description": "Owner Id ", 
-             "value": "1439222689" 
-         }, 
-         "DATABASE_URL": { 
-             "description": "Database From monogdb website ", 
-             "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority" 
-         }, 
-         "BOT_NAME": { 
-             "description": "Your Bot Name From Bot Father", 
-             "value": "" 
-         }, 
+        }
     },
     "formation": {
     "worker": {
