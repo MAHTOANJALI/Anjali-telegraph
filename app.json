@@ -20,37 +20,22 @@
         },
         "BOT_TOKEN": {
             "description": "Get from Telegram's @BotFather"
-        }
+        },
         "UPDATE_CHANNEL": { 
-
-             "description": "Channel User Name Without @ ", 
-
+            "description": "Channel User Name Without @ ", 
              "value": "BikashGadgetsTech" 
-
          }, 
-
          "BOT_OWNER": { 
-
              "description": "Owner Id ", 
-
              "value": "1439222689" 
-
          }, 
-
          "DATABASE_URL": { 
-
              "description": "Database From monogdb website ", 
-
              "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority" 
-
          }, 
-
          "BOT_NAME": { 
-
              "description": "Your Bot Name From Bot Father", 
-
              "value": "" 
-
          } 
     },
     "formation": {
