@@ -85,6 +85,7 @@
          { 
 
              "url": "heroku/python" 
+              "stack": "container"
 
          } 
 
@@ -96,7 +97,7 @@
 
              "quantity": 1, 
 
-             "size": "eco" 
+             "size": "free" 
 
          } 
 
