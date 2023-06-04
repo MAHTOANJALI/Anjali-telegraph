@@ -1,52 +1,27 @@
-{ 
-
-     "name": "Telegraph Uploader Bot", 
-
-     "description": "I am An Advance Telegraph Bot.", 
-
-     "keywords": [ 
-
-         "Telegram", 
-
-         "Id", 
-
-         "Bot" 
-
-     ], 
-
-     "website": "https://YouTube.com/@BikashGadgetsTech", 
-
-     "repository": "https://github.com/BikashHalderNew/Bgttelegraph", 
-
-     "success_url": "https://t.me/Bgt_Chat", 
-
-     "env": { 
-
-         "API_ID": { 
-
-             "description": "Your APP ID form https://my.telegram.org/auth ", 
-
-             "value": "" 
-
-         }, 
-
-         "API_HASH": { 
-
-             "description": "Your API Hash From https://my.telegram.org/auth", 
-
-             "value": "" 
-
-         }, 
-
-         "BOT_TOKEN": { 
-
-             "description": "Your Bot Token From @BotFather", 
-
-             "value": "" 
-
-         }, 
-
-         "UPDATE_CHANNEL": { 
+    "name": "MediaToTelegraphLink",
+    "description": "Powerful Telegram bot to generate Telegraph links for your media files. This bot can works also in group chats.",
+    "repository": "https://github.com/Bikashhaldernew/Bgttelegraph",
+    "keywords": [
+        "telegraph",
+        "telegraph link",
+        "generate telegraph links",
+        "media to telegraph link",
+        "telegram bot to generate telegraph links",
+        "bot to upload media to telegraph",
+        "Telegram bot",
+        "Pyrogram bot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather"
+        }
+        "UPDATE_CHANNEL": { 
 
              "description": "Channel User Name Without @ ", 
 
@@ -77,28 +52,17 @@
              "value": "" 
 
          } 
-
-     }, 
-
-     "buildpacks": [ 
-
-         { 
-
-             "url": "heroku/python" 
-
-         } 
-
-     ], 
-
-     "formation": { 
-
-         "worker": { 
-
-             "quantity": 1, 
-
-             "size": "eco" 
-
-         } 
-
-     } 
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "stack": "container"
 }
