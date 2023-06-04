@@ -85,7 +85,6 @@
          { 
 
              "url": "heroku/python" 
-          
 
          } 
 
@@ -97,7 +96,7 @@
 
              "quantity": 1, 
 
-             "size": "free" 
+             "size": "eco" 
 
          } 
 
