@@ -36,7 +36,7 @@
          "BOT_NAME": { 
              "description": "Your Bot Name From Bot Father", 
              "value": "" 
-         } 
+         }, 
     },
     "formation": {
     "worker": {
