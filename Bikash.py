@@ -35,11 +35,11 @@ START_TEXT = """**🥀 𝐇𝐞𝐲 {}
 
 𝐈 𝐀𝐦 𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐕𝐢𝐝𝐞𝐨 𝐎𝐫 𝐅𝐢𝐥𝐞 𝐁𝐨𝐭𝐡 🥀
 
-🥀 𝐌𝐚𝐝𝐞 𝐁𝐲 [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder) 🥀
+🥀 𝐌𝐚𝐝𝐞 𝐁𝐲 [𝐌𝐚𝐡𝐭𝐨 𝐀𝐧𝐣𝐚𝐥𝐢](https://t.me/QUEENx_GOD) 🥀
 
-🥀 [𝐘𝐨𝐮𝐓𝐮𝐛𝐞](https://youtube.com/@BikashGadgetsTech) 🥀
+🥀 [𝐂𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/+1ipwZ6f0hWoxZmI1) 🥀
 
-🥀 [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](httsp://t.me/BikashGadgetsTech) 🥀
+🥀 [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/+fztuVtP1frMwYTk1) 🥀
 
 """
 
@@ -57,25 +57,25 @@ HELP_TEXT = """**𝐇𝐞𝐲, {} 𝐒𝐞𝐞 𝐌𝐲 𝐂𝐦𝐝:**
 /start : 𝐒𝐭𝐚𝐫𝐭 𝐓𝐡𝐄 𝐁𝐨𝐭
 /status : 𝐅𝐨𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐭𝐮𝐬
  
-🥀 𝐌𝐚𝐝𝐞 𝐁𝐲 [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder) 🥀
+🥀 𝐌𝐚𝐝𝐞 𝐁𝐲 [𝐌𝐚𝐡𝐭𝐨 𝐀𝐧𝐣𝐚𝐥𝐢](https://t.me/QUEENx_GOD) 🥀
 
-🥀 [𝐘𝐨𝐮𝐓𝐮𝐛𝐞](https://youtube.com/@BikashGadgetsTech) 🥀
+🥀 [𝐂𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/+1ipwZ6f0hWoxZmI1) 🥀
 
-🥀 [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](httsp://t.me/BikashGadgetsTech) 🥀
+🥀 [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/+fztuVtP1frMwYTk1) 🥀
  
  """
 
-ABOUT_TEXT = """--** 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**--🥀
+ABOUT_TEXT = """--** 𝐌𝐚𝐡𝐭𝐨 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**--🥀
 
 🤖 **𝐍𝐚𝐦𝐞 :** [𝐌𝐞𝐝𝐢𝐚 𝐓𝐨 𝐋𝐢𝐧𝐤](https://telegram.me/{})
 
-📢 **𝐘𝐨𝐮𝐭𝐮𝐛𝐞 :** [𝐁 𝐆 𝐓](https://Youtube.com/@BikashGadgetsTech)
+📢 **𝐂𝐡𝐚𝐧𝐧𝐞𝐥 :** [𝐌𝐀𝐇𝐓𝐎] (https://t.me/+1ipwZ6f0hWoxZmI1)
 
-📢 **𝐔𝐩𝐝𝐚𝐭𝐞𝐬 :** [𝐁 𝐆 𝐓](https://telegram.me/BikashGadgetsTech)
+📢 **𝐔𝐩𝐝𝐚𝐭𝐞𝐬 :** [𝐌𝐀𝐇𝐓𝐎] (https://t.me/+fztuVtP1frMwYTk1)
 
-👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :** [𝐁𝐆𝐓 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
+👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :** [𝐌𝐀𝐇𝐓𝐎] (https://t.me/AnjalixSupportxGroup)
 
-🥀 **𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 :** [𝐁𝐆𝐓 𝐂𝐡𝐚𝐭](https://t.me/AnjaanDuniya2)
+🥀 **𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 :** [𝐌𝐀𝐇𝐓𝐎] (https://t.me/AnjalixSupportxGroup)
 
 """
 
@@ -84,7 +84,7 @@ FORCE_SUBSCRIBE_TEXT = "🥀 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧�
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀', url='{UPDATE_CHANNEL}'),
-        InlineKeyboardButton('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', url='https://Youtube.com/@BikashGadgetsTech'),
+        InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/+1ipwZ6f0hWoxZmI1'),
         ],[
         InlineKeyboardButton('🥀 𝐇𝐨𝐦𝐞 🏘', callback_data='home'),
         InlineKeyboardButton('𝐀𝐛𝐨𝐮𝐭 🔰', callback_data='about'),
@@ -95,7 +95,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭',url='https://t.me/Bgt_Chat'),
-        InlineKeyboardButton('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', url='https://Youtube.com/@BikashGadgetsTech'),
+        InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/+1ipwZ6f0hWoxZmI1'),
         ],[
         InlineKeyboardButton('🥀 𝐇𝐨𝐦𝐞 🏘', callback_data='home'),
         InlineKeyboardButton('𝐀𝐛𝐨𝐮𝐭 🔰', callback_data='about'),
@@ -106,7 +106,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📢', url='{UPDATE_CHANNEL}'),
-        InlineKeyboardButton('𝐘𝐨𝐮𝐭𝐮𝐛𝐞', url='https://Youtube.com/@BikashGadgetsTech'),
+        InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/+1ipwZ6f0hWoxZmI1'),
         ],[
         InlineKeyboardButton('🥀 𝐇𝐨𝐦𝐞 🏘', callback_data='home'),
         InlineKeyboardButton('🥀 𝐇𝐞𝐥𝐩 🌺', callback_data='help'),
@@ -209,11 +209,11 @@ async def telegraph_upload(bot, update):
             return
         except Exception as error:
             print(error)
-            await update.reply_text(text="🥀 𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐤 𝐖𝐫𝐨𝐧𝐠 ❌  𝐂𝐨𝐧𝐭𝐚𝐜𝐭 [𝐎𝐰𝐧𝐞𝐫](https://t.me/BikashHalder) ", disable_web_page_preview=True)
+            await update.reply_text(text="🥀 𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐤 𝐖𝐫𝐨𝐧𝐠 ❌  𝐂𝐨𝐧𝐭𝐚𝐜𝐭 [𝐎𝐰𝐧𝐞𝐫](https://t.me/QUEENx_GOD) ", disable_web_page_preview=True)
             return
-    medianame = "./DOWNLOADS/" + "BikashHalder/BgtConvertBot"
+    medianame = "./DOWNLOADS/" + "QUEENx_GOD/MhConvertBot"
     text = await update.reply_text(
-        text="🌹 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐓𝐨 𝐁𝐠𝐭 𝐒𝐞𝐫𝐯𝐞𝐫 🌺 ...",
+        text="🌹 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐓𝐨 𝐌𝐚𝐡𝐭𝐨 𝐀𝐧𝐣𝐚𝐥𝐢 𝐒𝐞𝐫𝐯𝐞𝐫 🌺 ...",
         disable_web_page_preview=True
     )
     await bot.download_media(
@@ -239,7 +239,7 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"🥀 𝐋𝐢𝐧𝐤 ➡️ https://telegra.ph{response[0]}\n\n [𝐀𝐧𝐣𝐚𝐚𝐧 𝐃𝐮𝐧𝐢𝐲𝐚](https://t.me/AnjaanDuniya2)",
+        text=f"🥀 𝐋𝐢𝐧𝐤 ➡️ https://telegra.ph{response[0]}\n\n [𝐌𝐚𝐡𝐭𝐨 𝐀𝐧𝐣𝐚𝐥𝐢](https://t.me/AnjalixSupportxGroup)",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -248,13 +248,13 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="🥀 𝐒𝐡𝐚𝐫𝐞 𝐋𝐢𝐧𝐤 🇮🇳", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
                 [
-                    InlineKeyboardButton(text="📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📢", url=f"https://t.me/BikashGadgEtsTech")
+                    InlineKeyboardButton(text="📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📢", url=f"https://t.me/+fztuVtP1frMwYTk1")
                 ],
                 [
-                    InlineKeyboardButton(text"🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/Bgt_Chat")
+                    InlineKeyboardButton(text"🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/AnjalixSupportxGroup")
                 ],
                 [
-                    InlineKeyboardButton(text"🥀 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 𝐆𝐫𝐨𝐮𝐩 🥀", url=f"https://t.me/AnjaanDuniya2")
+                    InlineKeyboardButton(text"🥀 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 𝐆𝐫𝐨𝐮𝐩 🥀", url=f"https://t.me/AnjalixSupportxGroup")
                 ]
             ]
         )
