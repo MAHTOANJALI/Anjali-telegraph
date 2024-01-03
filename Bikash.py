@@ -18,7 +18,7 @@ from telegraph import upload_file
 from database import Database
 
 
-UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "https://t.me/BikashGadgetsTech")
+UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "https://t.me/+fztuVtP1frMwYTk1")
 BOT_OWNER = int(os.environ["BOT_OWNER"])
 DATABASE_URL = os.environ["DATABASE_URL"]
 db = Database(DATABASE_URL, "BgtConvertBot")
@@ -52,7 +52,7 @@ HELP_TEXT = """**𝐇𝐞𝐲, {} 𝐒𝐞𝐞 𝐌𝐲 𝐂𝐦𝐝:**
 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐂𝐦𝐝𝐬
 
 /about : 𝐅𝐨𝐫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-/bikash : 𝐀𝐛𝐨𝐮𝐭 𝐎𝐰𝐧𝐞𝐫
+/mahto : 𝐀𝐛𝐨𝐮𝐭 𝐎𝐰𝐧𝐞𝐫
 /helo : 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐇𝐞𝐥𝐩
 /start : 𝐒𝐭𝐚𝐫𝐭 𝐓𝐡𝐄 𝐁𝐨𝐭
 /status : 𝐅𝐨𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐭𝐮𝐬
